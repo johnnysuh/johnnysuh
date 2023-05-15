@@ -1,6 +1,6 @@
 
 
-# 🐹Bem-vindo!
+# 🐹Olá!
 ## Me chamo Nicolas Cabral Duarte...
 ### ...tenho 17 anos e estou no segundo ano do ensino médio, sou estudante de Técnico em Desenvolvimento de Sistemas no SESI SENAI.
 
