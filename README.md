@@ -1,11 +1,11 @@
+
+
 # 🐹Bem-vindo!
 ## Me chamo Nicolas Cabral Duarte...
 ### ...tenho 17 anos e estou no segundo ano do ensino médio, sou estudante de Técnico em Desenvolvimento de Sistemas no SESI SENAI.
 
 ## Ferramentas que uso
-<img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width = 50px/>
-
-<img src = "https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width = 50px/>
+<img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width = 50px/><img src = "https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width = 50px/>
 <img src = "https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width = 50px/>
 
 <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width = 50px/>
