@@ -6,7 +6,7 @@
 
 ‎ 
 
-<img src = "https://gifs.crd.co/assets/images/gallery03/595a975c.gif?v=722c2939" width = 800px/>
+<img src = "https://gifs.crd.co/assets/images/gallery03/595a975c.gif?v=722c2939" width = 800px/><img src = "https://gifs.crd.co/assets/images/gallery03/595a975c.gif?v=722c2939" width = 800px/>
 
 ‎ 
 
