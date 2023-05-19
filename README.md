@@ -20,6 +20,7 @@
    <a href="https://tiktok.com/@nicolasss10000" target="_blank"</a> <img src= "https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
     <a href="https://www.last.fm/pt/user/kibumxcx" target="_blank"</a> <img src= "https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white">
      <a href="https://letterboxd.com/fayewongo" target="_blank"</a> <img src= "https://img.shields.io/badge/Letterboxd-00D735.svg?style=for-the-badge&logo=Letterboxd&logoColor=white">
+     <a href="https://www.duolingo.com/profile/nicolasss1000000" target="_blank"</a> <img src= "https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
 
 ‎ 
 
