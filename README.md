@@ -6,7 +6,7 @@
 
 ‎ 
 
-<img src = "div.gif" width = 800px/>
+<img src = "div.gif" width = 600px/>
 
 ‎ 
 
