@@ -1,6 +1,6 @@
 ![Header](./capa.gif)
 
-# <img src = "https://pixels.crd.co/assets/images/gallery42/4310026b.gif?v=9b219e01" width = 20px/> Olá! 
+# <img src = "https://pixels.crd.co/assets/images/gallery14/9ea5fd0f.gif?v=7212058b" width = 20px/> Olá! 
 ## Me chamo Nicolas Cabral Duarte...
 
 ### ...tenho 17 anos e estou no terceiro ano do ensino médio, sou estudante de Técnico em Desenvolvimento de Sistemas no SESI SENAI.
