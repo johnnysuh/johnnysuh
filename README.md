@@ -34,6 +34,7 @@
 
 ‎ 
 
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=kibumxcx)
 
 
 [![](https://visitcount.itsvg.in/api?id=johnnysuh&icon=0&color=6)](https://visitcount.istvg.in)
