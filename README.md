@@ -3,7 +3,7 @@
 # <img src = "https://pixels.crd.co/assets/images/gallery60/a451996a.gif?v=7212058b" width = 20px/> Olá! 
 ## Me chamo Nicolas Cabral Duarte...
 
-### ...tenho 18 anos e estou no terceiro ano do ensino médio, sou estudante de Técnico em Desenvolvimento de Sistemas no SESI SENAI.
+### ...tenho 19 anos e estou no curso de Bacharelado em Artes Visuais na UDESC CEART.
 ‎ 
 
 <img src = "https://gifs.crd.co/assets/images/gallery03/595a975c.gif?v=722c2939" width = 800px/><img src = "https://gifs.crd.co/assets/images/gallery03/595a975c.gif?v=722c2939" width = 800px/>
